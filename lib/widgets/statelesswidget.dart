@@ -13,15 +13,15 @@ class ExoFirst extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
             const ListTile(
-              title: Text('Cristiano Ronaldo',
+              title: Text('Bilal AOUACI',
                   style: TextStyle(fontWeight: FontWeight.bold)),
-              subtitle: Text('Footballer - GOAT'),
+              subtitle: Text('Développeur - c#'),
               trailing: Chip(
-                  backgroundColor: Color.fromARGB(255, 255, 249, 181),
+                  backgroundColor: Color.fromARGB(255, 97, 23, 201),
                   label: Text(
                     "Soumis",
                     style: TextStyle(
-                        color: Color.fromARGB(255, 255, 183, 0),
+                        color: Color.fromARGB(255, 24, 255, 12),
                         fontWeight: FontWeight.bold),
                   )),
             ),
